@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mac1175.github.com/blog
-title: kowodi's blog
-subtitle: Research and experience through kowodi LLC projects.
-author: Mitchell Cohen
+url: http://www.mitch-cohen.com
+title: mitch-cohen.com
+subtitle: Research,experience< and salsa.
+author: Mitch Cohen
 simple_search: http://google.com/search
-description: This blog is a ongoing experiences of  programming and life as a developer and owner of kowodi LLC.
+description: This blog is a ongoing experiences of  programming and life as a developer and extreme coffee snob.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: kowodi
+github_user: mitch-cohen
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: kowodi_LLC
+twitter_user: mitch_cohen123
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: kowodill
+disqus_short_name: mitchcohen
 disqus_show_comment_count: false
 
 # Google Analytics

@@ -8,5 +8,5 @@ footer: true
 ---
 
 Need to someone to work on a website? Contact me at 
-*kowodi.llc@gmail.com*
+*me@mitch-cohen.com*
 
