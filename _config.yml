@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.mitch-cohen.com
+url: http://mitch-cohen.github.com/damn-website
 title: mitch-cohen.com
 subtitle: Research,experience< and salsa.
 author: Mitch Cohen
@@ -93,7 +93,7 @@ disqus_short_name: mitchcohen
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-37659630-1
+google_analytics_tracking_id: UA-39251932-1
 
 
 # Facebook Like
