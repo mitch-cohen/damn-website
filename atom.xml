@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[mitch-cohen.com]]></title>
+  <link href="http://www.mitch-cohen.com/atom.xml" rel="self"/>
+  <link href="http://www.mitch-cohen.com/"/>
+  <updated>2013-03-12T21:40:28-04:00</updated>
+  <id>http://www.mitch-cohen.com/</id>
+  <author>
+    <name><![CDATA[Mitch Cohen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
